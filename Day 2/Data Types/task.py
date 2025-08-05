@@ -1,0 +1,1 @@
+print("Narendra"[3])
